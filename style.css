@@ -36,12 +36,20 @@ h1{ text-align: center;}
     
     width: 50%;
     padding-left: 5%;
-    margin: 0%;
-    
+      
 }
 .click{
     background-color: hotpink;
     color: white;
     border-radius: 5px;
     padding: 5px;
+}
+.taf img{
+    width: 80%;
+}
+.taf{
+    width: 50%;
+    padding-left
+    : 10%;
+    margin: 30px;
 }
