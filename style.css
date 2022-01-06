@@ -29,3 +29,19 @@ h1{ text-align: center;}
      ;
      margin: 50px;
 }
+.baf img{
+    width: 50%;
+}
+.baf{
+    
+    width: 50%;
+    padding-left: 5%;
+    margin: 0%;
+    
+}
+.click{
+    background-color: hotpink;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
