@@ -20,3 +20,12 @@ section{ display: flex;}
     color: white;
     border-radius: 5px;
 }
+h1{ text-align: center;}
+.maf img{
+    width: 50%;
+}
+.maf{
+    padding: 20px; 
+     ;
+     margin: 50px;
+}
